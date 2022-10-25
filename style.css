@@ -85,5 +85,17 @@
     border-bottom: 1px solid black;
     color: black;
 }
+
+
+/**Best manufactureer section**/
+.manufacturer h1{
+    font-weight: bold;
+    font-size: 40px;
+}
+.manufacturer{
+    background-color: #FFE4E1;
+    padding-left: 40px !important;
+    padding-top: 130px;
+}
  
 
