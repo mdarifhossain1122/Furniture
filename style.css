@@ -97,5 +97,26 @@
     padding-left: 40px !important;
     padding-top: 130px;
 }
- 
+
+
+/**Instagram crad section**/
+.fa-instagram{
+    font-size: 70px;
+    color: tomato;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+.instagram h1{
+    font-size: 50px;
+}
+.instagram p{
+    font-size: 18px;
+}
+.instagram{
+    padding-left: 60px !important;
+    
+}
+.green-table{
+    margin-left: -25px;
+}
 
