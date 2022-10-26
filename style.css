@@ -126,3 +126,37 @@
     margin-right: 22px;
 }
 
+/**Footer section**/
+.ftr-section{
+    background-color: rgb(33, 33, 69);
+    padding: 100px 0;
+    color: white;
+}
+.quick a{
+    text-decoration: none;
+    color: white;
+    
+}
+.quick a:hover{
+    color: tomato;
+    border-bottom: 3px solid tomato;
+}
+.quick h5{
+    margin-bottom: 40px;
+}
+.fa-brands{
+    font-size: 30px;
+    color: white;
+    transition: 0.4s;
+    margin-left: 20px;
+}
+.fa-brands:hover{
+    color: tomato;
+}
+.logo-card img{
+    margin-bottom: 40px;
+}
+.logo-card p{
+    margin-bottom: 40px;
+}
+
